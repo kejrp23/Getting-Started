@@ -11,6 +11,7 @@ clear
 cd /
 
 # This next line never executed
+# I feel like my logic is right, but obviously somthing is off.
 
 PS1="MyCustomPrompt : "
 
